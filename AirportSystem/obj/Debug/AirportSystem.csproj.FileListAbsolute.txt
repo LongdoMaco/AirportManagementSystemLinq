@@ -1,0 +1,9 @@
+D:\C#\AirportSystem\AirportSystem\bin\Debug\AirportSystem.exe.config
+D:\C#\AirportSystem\AirportSystem\bin\Debug\AirportSystem.exe
+D:\C#\AirportSystem\AirportSystem\bin\Debug\AirportSystem.pdb
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.Form1.resources
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.Properties.Resources.resources
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.csproj.GenerateResource.Cache
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.exe
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.pdb
+D:\C#\AirportSystem\AirportSystem\obj\Debug\AirportSystem.csprojResolveAssemblyReference.cache
